@@ -1,0 +1,18 @@
+Name: Muhammad Furqan , Student Number: 101162068
+
+First Deliverable:
+Name of folders: .idea , src
+Name of files: Lab 1.iml
+
+Second Deliverable:
+Name of 3 library folders: java.datatransfer , java.base , java.compileer
+
+Third Deliverable:
+"C:\Users\Hp\Desktop\2nd Year\Winter 2021\SYSC 2004 D\Labs\IntelliJ IDEA Educational Edition 2020.3\jbr\bin\java.exe" "-javaagent:C:\Users\Hp\Desktop\2nd Year\Winter 2021\SYSC 2004 D\Labs\IntelliJ IDEA Educational Edition 2020.3\lib\idea_rt.jar=52980:C:\Users\Hp\Desktop\2nd Year\Winter 2021\SYSC 2004 D\Labs\IntelliJ IDEA Educational Edition 2020.3\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\Hp\Desktop\3rd Year\Fall 2021\SYSC 3110 A\Lab 1\out\production\Lab 1" BuddyInfo
+Hello world!
+
+Process finished with exit code 0
+
+Fourth Deliverable:
+File path for BuddyInfo.class
+"C:\Users\Hp\Desktop\3rd Year\Fall 2021\SYSC 3110 A\Lab 1\out\production\Lab 1\BuddyInfo.class"
