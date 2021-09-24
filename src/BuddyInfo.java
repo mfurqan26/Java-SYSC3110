@@ -29,6 +29,10 @@ public class BuddyInfo {
         return name;
     }
 
+    public String getAddress() {
+        return address;
+    }
+
     public static void main(String arg[]){
 
         //System.out.println("Hello world!");
